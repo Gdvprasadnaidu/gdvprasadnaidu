@@ -40,7 +40,3 @@
     <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode,github,aws,androidstudio,git,windows" />
     <img src="https://skillicons.dev/icons?i=kotlin,python,kali,photoshop,firebase,linux,mongodb,c,java,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
-
