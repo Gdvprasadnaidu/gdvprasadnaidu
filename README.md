@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a TodoList app**
+ 🔭 I’m currently working on **a Event Managment System App**
  
  🌱 I’m currently learning **SQL, Python , Exploratory Data Analysis (EDA)**
 
