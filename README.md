@@ -16,7 +16,7 @@
 
 💬 Ask me about **Cpp, Java, PowerBI... or anything About my projects on Github**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Tony Stark’s secret to confidence? A closet full of shiny suits and an ego that’s bigger than his tech company!**
 
  </div>
  
