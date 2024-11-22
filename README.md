@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Event Managment System App**
+ 🔭 I’m currently working on ** Aural Sight "Audio-Visual Surveillance for Real-Time Threat Detection **
  
  🌱 I’m currently learning **SQL, Python , Exploratory Data Analysis (EDA)**
 
